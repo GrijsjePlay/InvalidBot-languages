@@ -79,6 +79,11 @@
         },
         "autoReply": {
             "ASKINGFORKIT": "#DISCORDUSER Je mag een kit vragen in #REQUESTKITCHANNEL"
+        "banRequest": {
+            "NOTAMOD": "Jij bent geen moderator.",
+            "INVALIDTARGET": "Geen geldig doelwit.",
+            "INVALIDTIME": "Geen geldige looptijd of langer dan 28 dagen.",
+            "SUCCESS": "VERBANNEN: (#DISCORD) verbant (#DISCORDTARGET) van het aanvragen van kit voor (#TIMEs)"
         }
     }
 }
